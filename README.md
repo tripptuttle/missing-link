@@ -1,7 +1,7 @@
 # missing-link
 This is a class project for Ryan Shaw's INLS 620: Web Information Organization.
 
-**__This app required PHP > 5.6, a live version is deployed at: https://opal.ils.unc.edu/~ttuttle/missing-link/__**
+**__This app requires PHP > 5.6, a live version is deployed at: https://opal.ils.unc.edu/~ttuttle/missing-link/__**
 
 ## Resources
 ### Instructors
@@ -25,9 +25,3 @@ This is a class project for Ryan Shaw's INLS 620: Web Information Organization.
 
 ## Others
 For input elements, I used for for and id and matching name attributes to link the hypermedia controls. But in general, I tried to use the HTML5 elements to indicate how a section is related to the other sections. For example, the "linked-results" section is nested within the "results-detail" section.``````
-
-A Readme.md file in the GitHub repository documenting:
-
-the attribute values used to describe your application flow, and
-the types and properties used to describe your data.
-
