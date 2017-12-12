@@ -1,0 +1,27 @@
+[
+  {
+    "year": 2015,
+    "semester": "Spring",
+    "term_id" : 2195
+  },
+  {
+    "year": 2014,
+    "semester": "Fall",
+        "term_id" : 2136
+  },
+  {
+    "year": 2016,
+    "semester": "Spring",
+        "term_id" : 2115
+  },
+  {
+    "year": 2015,
+    "semester": "Fall",
+        "term_id" : 2135
+  },
+  {
+    "year": 2015,
+    "semester": "Spring",
+        "term_id" : 2395
+  }
+]

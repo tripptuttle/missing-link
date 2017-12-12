@@ -1,0 +1,154 @@
+body {
+    font-family: sans-serif;
+    margin: 0
+}
+
+main.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: .5em;
+    grid-template-rows: 1fr 3fr 1fr;
+    grid-auto-rows: minmax(100px, auto);
+}
+
+main {
+    margin: 1em 2em;
+}
+
+header {
+    margin: 0;
+    background-color: #4B9CD3;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding: .5em;
+}
+
+header h1 {
+    grid-column: 1/2;
+    font-size: 1.8em;
+    color: #fff;
+    font-weight: normal;
+}
+
+nav {
+    grid-column: 2/end;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: .5em;
+    grid-template-rows: 1fr;
+    grid-auto-rows: minmax(100px, auto);
+}
+
+nav a {
+    color: #fff;
+    padding: 1em;
+    text-transform: uppercase;
+    font-size: 1.1em;
+}
+
+section.column {
+    grid-row: 1/2;
+    vertical-align: middle;
+}
+
+section.first {
+    grid-column: 1/2;
+}
+
+section.second {
+    grid-column: 2/3;
+}
+
+section.third {
+    grid-column: 3/end;
+}
+
+section.result-detail {
+    grid-column: 2/end;
+    grid-row: 1/end;
+}
+
+section.results {
+    grid-column: 1/end;
+    grid-row: 1/2;
+}
+
+section.add-new {
+    grid-column: 1/end;
+    grid-row: 2/end;
+    margin-top: 1em;
+    max-width: 40em;
+}
+
+form {
+    border: 1px solid #ccc;
+    padding: .5em;
+    background-color: #e6e6e6;
+
+}
+
+label {
+    display: block;
+    margin: 0 0 .5em 0;
+}
+
+input {
+    width: 100%;
+    display: inline-block;
+}
+
+select {
+    width: 100%;
+    display: inline-block;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: .25em 0;
+}
+
+.home a {
+    width: 90%;
+    background-color: #4B9CD3;
+    min-height: 200px;
+    display: inline-block;
+    padding: 5%;
+    text-align: center;
+}
+
+.result {
+    display: block;
+    clear: both;
+}
+
+.btn, button {
+    display: inline-block;
+    padding: .5em;
+    margin: 1em 0;
+    border: 2px solid #4B9CD3;
+    text-transform: uppercase;
+    font-size: .8em;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.btn:hover, button:hover {
+    border: 2px solid #4B9CD3;
+    background-color: #4B9CD3;
+    color: #fff;
+}
+
+.add-other {
+    font-size: .6em;
+}
+
+#error {
+    background-color: lightcoral;
+    padding: 1em;
+    margin: 2em;
+}
+
+section.linked-results{
+    padding: .5em 0;
+    border-top: 2px solid #e6e6e6;
+    margin: .5em 0;
+}

@@ -1,0 +1,156 @@
+﻿CourseNumber,Section,Title,Instructor,,
+890,260,"Machine Learning, AI and Medicine",Krishnamurthy,151-001: Retrieving and Analyzing Information; #6140; Maneiro; Course Website; Manning 001 ,8:00-9:15
+73,1,FYS  Smart Cities,Rajasekar/Rademaker,,8:00-9:15
+151,1,Retrieving and Analyzing Information,Maneiro,581-001: Research Methods Overview; #6211; Losee; Course Website; Manning 014 ,8:00-9:15
+151,2,Retrieving and Analyzing Information,Roscoe,490-141: Datafication of Everything; #6259; Lee; Course Website; Manning 117 (3 credits) ,9:05-11:25 (Wednesday only)
+161,1,Tools for Information Literacy,L. Jones,520-001: Organization of Information; #6135; Losee; Course Website; Manning 014 ,10:10-11:25
+161,2,Tools for Information Literacy,Bergquist,,
+201,1,Foundations of Information Science,Feinberg,541: Information Visualization; #12756; Hemminger; Course Website; Manning 307 ,
+201,2,Foundations of Information Science,Shaw,,
+202,1,Retrieval and Organization Systems,TBA,556: Introduction to Archives; #6136; Anthony; Course Website; Manning 001 ,
+203,1,Human Information Behavior,Threats,725: Electronic Health Records; #6230; Mostafa; Course Website; Heath Sciences Library (HSL) 333,11:15-12:30
+382,1,Information Systems Analysis and Design,Brown,202-001: Retrieval and Organization Systems; #12757; TBA; Course Website; Manning 304 ,12:20-1:35
+382,2,Information Systems Analysis and Design,Urquhart,,
+384,1,Information and Computer Ethics,Anthony,512: Applications of Natural Language Processing; #6181; Haas; Course Website; Manning 307 ,
+385,1,Information Use for Organizational Effectiveness,Bergquist,,
+385,2,Information Use for Organizational Effectiveness,Jarrahi,"690-189: Big Data, Algorithms, and Society; #6263; Tufekci; Course Website; Manning 001 ",
+418,1,Human Factors in System Design,Clarke,525: Electronic Records Management; #13575; Barnes; Course Website; Manning 117,12:20-3:05 (Monday only)
+465,1,Understanding Information Technology for Managing Digital Collections,Post,,
+490,141,Datafication of Everything,Lee,690-147: Information Services in a Diverse Society; #9708; Hughes-Hassell; Course Website; Manning 014 ,
+490,172,Fundamentals of Programming Information Applications,Capra,843-001: Seminar in Public Libraries; #12759; Flaherty; Course Website; Manning 303 ,12:20-3:05 (Wednesday only)
+490,248,Introduction to Information Security,Hodges,,
+500,1,Human Information Interactions,Gibson,"857-001: Seminar in Rare Books, #13146; Ott; Course Website; Wilson Library 504 ",
+500,02W,Human Information Interactions,E. Bailey,203-001: Human Information Behavior; #8092; Threats; Course Website; Manning 304 ,2:30-3:45
+501,1,Information Resources and Services,S. Brown,,
+509,1,Information Retrieval,Arguello,613: Text Mining; #12758; Arguello; Course Website; Manning 307,
+512,1,Applications of Natural Language Processing,Haas,,
+513,1,Resource Selection and Evaluation,Flaherty,697-001: Information Science Capstone; #6141; Jones; Course Website; Manning 208 ,
+520,1,Organization of Information,Losee,161-001: Tools for Information Literacy; #6133; L. Jones; Course Website; Manning 117 ,3:35-4:50
+520,2,Organization of Information,Feinberg,770: Health Informatics Seminar; #6264; TBA; Course Website; Health Sciences Library (HSL) 227,4:00-5:00
+523,1,Database Systems I,A. Lee,"626: Intro to Big Data and NoSQL; # 6253; Scott; Course Website; Manning 117 (1.5 credits, meets March 19- April 25) ",6:00-7:15
+523,3,Database Systems I,Missen,,
+523,02W,Database Systems I,Haas,"690-252: Database III; #8740; Scott; Course Website; Manning 117 (1.5 credits, meets January 10-March 7) ",
+525,1,Electronic Records Management,Barnes,,
+541,1,Information Visualization,Hemminger,690-254: Introduction to Data Management and Data Services; #12752; Hayslett/Hayes; Course Website; Manning 014 (3.0 credits) ,
+556,1,Introduction to Archives,Anthony,501-001: Information Resources and Services; #6142; S. Brown; Course Website; Manning 208 ,6:00-8:45 (Monday only)
+560,1,Programming for Information Professionals,Gotz,,
+560,2,Programming for Information Professionals,Staff,523-001: Database Systems I; #6220; A. Lee; Course Website; Maning 001 ,
+560,03W,Programming for Information Professionals,Gotz,,
+572,1,Web Development,Boone,509-001: Information Retrieval; #6131; Arguello; Course Website; Manning 307 ,
+573,1,Mobile Web Development, Boone,,
+581,1,Research Methods Overview,Losee,732: Children's Literature and Related Materials; #9728; Cole; Course Website; Manning 304 ,
+581,2,Research Methods Overview,Rawson,382-001: Information Systems Analysis and Design; #6137; Brown; Course Website; Manning 001,6:00-8:45 (Wednesday only)
+581,3,Research Methods Overview',Clemens,,
+582,1,Systems Analysis,Mazur,560-002: Programming for Information Professionals; #6256; Staff; Course Website; Carolina Hall 104 ,
+582,2,Systems Analysis & Design,Ndoh,,
+585,3,Management for Information Professionals,Ross,585-003 Management for Information Professionals; # 13603; Ross; Course Website; Manning 307 ,
+585,02W,Management for Information Professionals,Cox/Haight,,
+613,1,Text Mining,Arguello,"690-239: Everyday Information Interactions; #13580; Thomson; Course Website; Manning 208 (1.5 credits, class meets March 7-April 25) ",
+623,1,Database Systems II,TBA,,
+624,01W,Policy-Based Data Management,Rajasekar,690-263: Practical Elements of Information Security Assessment; #13522; Purvis; Course Website; Room 304,
+626,1,Intro to Big Data and NoSQL,Scott,,
+690,03W,Project Management Strategy & Applications,Cox,"781-001: Proposal Development; #6234; Thomson; Course Website; Manning 208 (1.5 credits, class meets January 10-February 28) ",
+690,74,Information Science @ Work - San Francisco,Jones,,
+690,87,Child and Young Adult Development for Librarians,Sturm,,Tuesday/Thursday
+690,147,Information Services in a Diverse Society,Hughes-Hassell,Course information and call numbers,Time
+690,189,"Big Data, Algorithms, and Society",Tufekci,161-002: Tools for Information Literacy; #6255; Bergquist; Course Website; Manning 001 ,8:00-9:15
+690,239,Everyday Information Interactions,Thomson,073: FYS: Smart Cities; #12723; Rajasekar/Rademaker; Course Website; Manning 304 ,9:30-10:45
+690,252,Database III,Scott,,
+690,254,Introduction to Data Management and Data Services,Hayslett/Hayes,151-002: Retrieving and Analyzing Information; #6233; Roscoe; Course Website; Manning 117 ,
+690,263,Practical Elements of Information Security Assessment,Purvis,,
+697,1,Information Science Capstone,Jones,201-001: Foundations of Information Science; #6138; Feinberg; Course Website; Manning 001 ,
+697,2,Information Science Capstone,Jarrahi,,
+710,01W,Evidence-Based Medicine,Von Isenburg/Schardt,385-001: Information Use for Organizational Effectiveness; #6160; Bergquist; Manning 307 ,
+718,1,User Interface Design,Yu,,
+725,1,Electronic Health Records,Mostafa,560-001: Programming for Information Professionals; #6210; Gotz; Course Website; Manning 208 ,
+732,1,Children's Literature and Related Materials,Cole,385-002: Information Use for Organizational Effectiveness; #12725: Jarrahi; Course Website; Manning 208,11:00-12:15
+733,1,Administration of Public Library Work with Children and Young Adults,Sturm,,
+740,01W,Digital Libraries Principles and Applications,Shin,490-172: Fundamentals of Programming Information Applications; #6251; Capra; Course Website; Manning 001 (3 credits) ,
+749,1,Art and Visual Information Management,Tibbo,,
+750,01W,Introduction to Digital Curation,Tibbo,523-003: Database Systems I; #6258; Missen; Course Website; Manning 307 ,
+755,1,Archival Appraisal,Tibbo,,
+756,01W,Data Curation and Management,Anthony,"690-087: Child and Young Adult Development for Librarians; #13235; Sturm; Course Website; Manning 303 (1.5 credits, Meets March 22- April 26)  ",
+757,1,Principles and Practices of Archival Description,Capra,,
+760,1,Web Databases,Lee,757: Principles and Practices of Archival Description; #6197; Anthony; Course Website; Manning 014 ,
+765,01W,Information Technology Foundations for Managaging Digital Collections,Hassell,888-001: Seminar in Teaching and Academic Life; TBA; Owens; Course Website; Manning 304 ,11:00-1:30 (Tuesday only)
+767,01W,Information Assurance,TBA,520-002: Organization of Information; #6214; Feinberg; Course Website; Manning 001 ,12:30-1:45
+770,1,Health Informatics Seminar,Thomson,,
+781,1,Proposal Development,Barry-Rodriguez,582-001: Systems Analysis; #6218; Mazur; Manning 208 ,
+786,1,Marketing of Information Services,Flaherty,201-002: Foundations of Information Science; #6232; Shaw; Course Website; Manning 307 ,2:00-3:15
+843,1,Seminar in Public Libraries,,,
+857,1,Seminar in Rare Books,Ott,384-001: Information and Computer Ethics; #6228; Anthony: Course Website; Manning 014 ,
+882,1,Research Issues and Questions,Gibson,,
+888,1,Seminar in Teaching and Academic Life,Owens,749-001: Art and Visual Information Management; #TBA; Course Website; Manning 304,
+890,259,Applied Bioinformatics for Organizations and Operations,Robasky,,
+Course information and call numbers,,,,,
+Course information and call numbers,,,," 890-260: Machine Learning, AI and Medicine; #12763; Krishnamurthy; Course Website; HSL 333 (1.5 credits) ",3:30-4:45 (Tuesday only) 
+Course information and call numbers,,,,890-259 : Applied Bioinformatics for Organizations and Operations: #12761; Robasky; Course Website; HSL 333 (1.5 credits) ,3:30-4:45 (Thursday only) 
+,,,,,2:00-4:45 (Tuesday only)
+,,,,,
+,,,,882: Research Issues and Questions; #6143: Gibson; Course Website; Manning 303 ,
+,,,,465: Understanding Information Technology for Managing Digital Collections; #6168; Post; Course Website; Manning 117 ,2:00-4:45 (Thursday only)
+,,,,,
+,,,,513-001: Resource Selection and Evaluation; #6134; Flaherty; Course Website; Manning 208 ,
+,,,,,
+,,,,690-074: Information Science @ Work: San Francisco; #13311; Jones; Course Website; Manning 303 (3 credits) ,
+,,,,500-001: Human Information Interactions; #6139; Gibson; Course Website; Manning 304,6:00-7:15
+,,,,,
+,,,,697-002: Information Science Capstone; #6229; Jarrahi; Course Website; Room TBA ,
+,,,,490-248: Introduction to Information Security; #9895; Hodges; Course Website;  Manning 117,6:00-8:45 (Tuesday only)
+,,,,,
+,,,,581-002: Research Methods Overview; #6257; Rawson; Course Website; Manning 001,
+,,,,,
+,,,,582-002: Systems Analysis & Design; #6254; Ndoh; Course Website; Manning 307 ,
+,,,,,
+,,,,718: User Interface Design; #6132; Yu; Course Website; Manning 208,
+,,,,,
+,,,,760-001: Web Databases; #6145; Capra; Course Website; Manning 014,
+,,,,382-002: Information Systems Analysis and Design; #6236; Urquhart; Course Website; Manning 307,6:00-8:45 (Thursday only)
+,,,,,
+,,,,418: Human Factors in System Design; #9917; Clarke; Course Website; Manning 208 ,
+,,,,,
+,,,,623: Database Systems II; #6169; TBA; Course Website; Manning 014,
+,,,,,
+,,,,733: Administration of Public Library Work with Children and Young Adults; #13234;Sturm; Course Website; Manning 303 ,
+,,,,,
+,,,,,Friday
+,,,,Course information and call numbers,Time
+,,,,581-003: Research Methods Overview' #16042; Clemens; Course Website; Manning 001 ,10:10-12:40
+,,,,,
+,,,,755: Archival Appraisal; #6194; Tibbo; Course Website; Manning 014,
+,,,,,
+,,,,786-001: Marketing of Information Services; #13238; Barry-Rodriguez; Course Website; Manning 303 ,
+,,,,"572: Web Development; #6260; Boone; Course Website; Manning 001 (1.5 credits, meets January 12-March 9) ",12:20-3:05
+,,,,,
+,,,,"573: Mobile Web Development; #6261;  Boone; Course Website; Manning 001 (1.5 credits, meets March 23- April 27) ",
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,Online Courses
+,,,,Course information and call numbers,
+,,,,500-02W: Human Information Interactions; #12726; E. Bailey; Course Website; WEB ,WEB
+,,,,,
+,,,,523-02W: Database Systems I; #6227; Haas; Course Website; WEB ,
+,,,,,
+,,,,767-01W: Information Assurance; #15953; Hassell; Course Website; WEB ,
+,,,,,
+,,,,560-03W: Programming for Information Professionals; #13119; Gotz; WEB ,
+,,,,,
+,,,,585-02W: Management for Information Professionals; #9111; Cox/Haight; Course Website; WEB ,
+,,,,,
+,,,,624-01W: Policy-Based Data Management; #6252; Rajasekar: Course Website; WEB ,
+,,,,,
+,,,,690-03W: Project Management: Strategy and Applications; #12753; Cox; Course Website; WEB ,
+,,,,,
+,,,,710-01W: Evidence-Based Medicine; #6196; TBA; Von Isenburg/Schardt; Course Website; WEB ,
+,,,,,
+,,,,740-01W: Digital Libraries: Principles and Applications; #6195; Shin; Course Website; WEB ,
+,,,,,
+,,,,750-01W: Introduction to Digital Curation; #13276; Tibbo; Course Website; WEB ,
+,,,,,
+,,,,756-01W: Data Curation and Management; #6213; Tibbo; Course Website; WEB ,
+,,,,,
+,,,,"765-01W: Information Technology Foundations for Managaging Digital Collections; #13314; Lee; Course Website; WEB ( meets January 10-February 28, 1.5 credits) ",
+,,,,,

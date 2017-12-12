@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Foundations of Information Science",
+    "instructor_pid": "123456759",
+    "number": "201",
+    "section": "002",
+    "syllabus": "https:\/\/aeshin.org\/teaching\/inls-201\/2017\/fa",
+    "id": 7406,
+    "prereq": "",
+    "description": ""
+  },
+  {
+    "name": "Web Informaton Organization",
+    "instructor_pid": "123456759",
+    "number": "620",
+    "section": "001",
+    "syllabus": "https:\/\/aeshin.org\/teaching\/inls-620\/2017\/fa",
+    "id": 9528,
+    "description": "Understand the Web as a platform for information organization systems. Learn how the Web has been designed to be a service platform, data publishing platform, and application platform. Offered annually.",
+    "prereq": "Prerequisites, INLS 520 or 560. Similar programming background needed."
+  },
+  {
+    "name": "Organization of Information",
+    "instructor_pid": "123456799",
+    "number": "520",
+    "section": "002",
+    "syllabus": "https:\/\/ils.unc.edu\/courses\/2017_fall\/inls720_01W\/INLS%20720%20fall%202017.pdf",
+    "id": 9520,
+    "prereq": "Prerequisites, INLS 520 or 560. Similar programming background needed.",
+    "description": "None provided."
+  },
+  {
+    "number": "123",
+    "section": "001",
+    "syllabus": "#",
+    "name": "This is a Test Course",
+    "instructor_pid": "123456789",
+    "description": "Test description of the course",
+    "id": "1232",
+    "prereq": "PreRecs!"
+  }
+]
