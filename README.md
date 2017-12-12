@@ -6,21 +6,30 @@ This is a class project for Ryan Shaw's INLS 620: Web Information Organization.
 ## Resources
 ### Instructors
 **Schema:** http://schema.org/Person
-**Attributes:** Name, Identifier
+**Attributes:** Name, Identifier (URL)
 
 ### Courses
 **Schema:** http://schema.org/Course
 **Attributes:**
 -name: name of course
+
+-courseNumber: course number in UNC's catalog
+
 -description: text about the course
+
 -coursePrerequisites: list of prerequisites if available
+
 -workExample: link to syllabus
+
 -provider: @type Person, links back to the page for the instructor
 
 ## Classes
 **linked-results** - links to courses taught by instructors on their homepage, and vice versa
+
 **results-list** - list of all resources of a particular type
+
 **result-detail** - indicates a section providing details about a particular entity
+
 **add-new** - section to add a new resource to the application, surrounds a form element
 
 ## Others
