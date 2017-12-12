@@ -76,6 +76,7 @@ EOF;
             $number = $result['number'];
             $desc = $result['description'];
             $prereq = $result['prereq'];
+            $sylla = $result['syllabus'];
             $instructorPid = $result['instructor_pid'];
             echo <<<EOF
                 <a rel="start" class="view-all btn" href="index.php">View All</a>
@@ -85,6 +86,7 @@ EOF;
                     <h3 property="name">$number: $title</h3>
                     <p class="description" property="description">$desc</p>
                     <p class="prerequisites">Pre-Requisites: <span property="coursePrerequisites">$prereq</span></p>
+                    <p class="syllabus">Syllabus: <a property="workExample" href="$sylla">$sylla</a></p>
                     <section class="linked-results">
                     <h4>Taught By</h4>
 EOF;
@@ -101,18 +103,19 @@ EOF;
                     </div>
 EOF;
                 }
-                echo"
+                echo "
                 </section>                
                 </section>
             </section>
 ";
 
             }
+
+        } else {
+            header("HTTP/2.0 404 Not Found", true, 404);
+            include "../error.php";
+            $message = "Sorry, the resource you tried to GET was not found.";
         }
-    } else {
-        header("HTTP/2.0 404 Not Found", true, 404);
-        include "../error.php";
-        $message = "Sorry, the resource you tried to GET was not found.";
     }
 
     if ($method == "POST") {
