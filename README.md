@@ -1,6 +1,8 @@
 # missing-link
 This is a class project for Ryan Shaw's INLS 620: Web Information Organization.
 
+**__This app required PHP > 5.6, a live version is deployed at: https://opal.ils.unc.edu/~ttuttle/missing-link/__**
+
 ## Resources
 ### Instructors
 **Schema:** http://schema.org/Person
