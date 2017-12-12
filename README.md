@@ -24,4 +24,4 @@ This is a class project for Ryan Shaw's INLS 620: Web Information Organization.
 **add-new** - section to add a new resource to the application, surrounds a form element
 
 ## Others
-For input elements, I used for for and id and matching name attributes to link the hypermedia controls. But in general, I tried to use the HTML5 elements to indicate how a section is related to the other sections. For example, the "linked-results" section is nested within the "results-detail" section.``````
+For input elements, I used for for and id and matching name attributes to link the hypermedia controls. But in general, I tried to use the HTML5 elements to indicate how a section is related to the other sections. For example, the "linked-results" section is nested within the "results-detail" section.
